@@ -11,5 +11,5 @@ let student={
 // }
 
 Object.prototype.getKeys=function(){
-return Object.Keys(this);
+return Object.keys(this);
 };
